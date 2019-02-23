@@ -1,6 +1,6 @@
 /*
 COLORS:
-
+live editing
 Light green: #7ed56f
 Medium green: #55c57a
 Dark green: #28b485
@@ -50,7 +50,7 @@ body {
   text-align: center; }
 
 .heading-primary {
-  color: #ffffff;
+  color: #fff;
   text-transform: uppercase;
   backface-visibility: hidden;
   margin-bottom: 6rem; }
